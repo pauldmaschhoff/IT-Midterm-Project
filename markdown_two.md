@@ -2,7 +2,7 @@
 
 ### Pikes Peak
 ---
-In the summer of 2021, me and my family took a vacation to Colorado Springs, Colorado. It was very fun seeing mountains and peaks in the horizon in every direction that you looked. One of the activities we did while there was take the Cog Railway up to Pikes Peak. For more information about Pikes Peak visit [here](https://www.visitcos.com/things-to-do/places-to-go/pikes-peak/).
+In the summer of 2021, me and my family took a vacation to Colorado Springs, Colorado. It was very fun seeing mountains and peaks in the horizon in every direction that you looked. One of the activities we did was taking the Cog Railway up to Pikes Peak. For more information about Pikes Peak visit [here](https://www.visitcos.com/things-to-do/places-to-go/pikes-peak/).
 
 ### Other Activities
 ---

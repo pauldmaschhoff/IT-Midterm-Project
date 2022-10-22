@@ -11,7 +11,7 @@ I love to watch movies. Movies offer a type of entertainment that you cannot get
 
 ![Movies](https://pyxis.nymag.com/v1/imgs/2e9/d76/4e301e8e450927932ac083947a91c3557d-2-empty-movie-theatre.rsquare.w700.jpg)
 
-The silver screen also offers a lot of entertainment as well. I might actually like shows more than movies because there is more time for the story and characters to evolve and when the climax of the story hits it tends to have a bigger effect because of that reason. With streaming services TV shows are getting better than ever. Here are some of my favorites:
+The small screen also offers a lot of entertainment as well. I might actually like shows more than movies because there is more time for the story and characters to evolve and when the climax of the story hits it tends to have a bigger effect because of that reason. With streaming services TV shows are getting better than ever. Here are some of my favorites:
 
 * _Breaking Bad_
 * _Prison Break_

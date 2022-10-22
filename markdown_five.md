@@ -6,7 +6,7 @@ My mom works at _Lutheran High School South_, the high school that I attended in
 
 ### Dad
 ---
-My dad works as an attounrey at [SmithAmundsen](https://www.smithamundsen.com/), a law firm in St. Louis. I love watching different shows with my dad as we watched _The Walking Dead_ and _The Mandalorian_ together.
+My dad works as an attorney at [SmithAmundsen](https://www.smithamundsen.com/), a law firm in St. Louis. I love watching different shows with my dad as we watched _The Walking Dead_ and _The Mandalorian_ together.
 ![Lawyer](https://i0.wp.com/www.legalmosaic.com/wp-content/uploads/2015/12/shutterstock_50492266.jpg?resize=1000%2C563&ssl=1)
 
 ### Sister

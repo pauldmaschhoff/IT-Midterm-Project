@@ -14,7 +14,7 @@ Coming from St. Louis I have always been following our   city's sports teams. I 
 ### Video Games
 ---
 
-Ever since I was in elementary school playing Wii Sports on the Nintendo Wii I have had a love for video games. As   technology has evolved I can now play online with friends with games such as: _Destiny_, _Overwatch_, _Call of Duty_ and many more. [Xbox](https://www.xbox.com/en-US/) has brought many good times to me and my friends and I look forward to the good time to come.
+Ever since I was in elementary school playing Wii Sports on the Nintendo Wii I have had a love for video games. As   technology has evolved I can now play online games with friends such as: _Destiny_, _Overwatch_, _Call of Duty_ and many more. [Xbox](https://www.xbox.com/en-US/) has brought many good times to me and my friends and I look forward to the good times to come.
 
 #### **Links To Other Pages**
 ---

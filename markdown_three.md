@@ -7,7 +7,7 @@ I have had a love for technology my whole life and have always loved tinkering w
 
 ### Programming Experience
 ---
-While atttending Mizzou I have been able to learning and practice programming. By completing CS 1050 and by currently taking CS 2050 and INFOTC 1000 I have developed skills in different programming languages including:
+While atttending Mizzou I have been able to learn and practice programming. By completing CS 1050 and by currently taking CS 2050 and INFOTC 1000 I have developed skills in different programming languages including:
 
 * **_C_**
 * **_Python_**
