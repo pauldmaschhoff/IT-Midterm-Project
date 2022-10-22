@@ -4,5 +4,5 @@ Welcome to the homepage for five different markdown pages about me. Here you wil
 
 ## Links
 ---
-* [My Interests](/Users/paulmaschhoff/Documents/GitHub/IT-Midterm-Project/markdown_one.md)
+* [My Interests](markdown_one.md)
 * 
