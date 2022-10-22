@@ -16,4 +16,13 @@ Some other fun activities that we engaged in while in Colorado were:
 ![Garden of the Gods](https://gardenofgods.com/wp-content/uploads/garden-of-the-gods-valley-scaled-e1650039361571.webp)
 ![Museum](https://www.uncovercolorado.com/wp-content/uploads/2020/05/National-Museum-of-World-War-2-Aviation-CO-1516x758-1.jpg)
 
+#### Links To Other Pages
+---
+* [My Interests](markdown_one.md)
+* [Technology](markdown_three.md)
+* [Entertainment](markdown_four.md)
+* [Family](markdown_five.md)
+
+
+
 
