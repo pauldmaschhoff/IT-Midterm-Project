@@ -22,6 +22,7 @@ Some other fun activities that we engaged in while in Colorado were:
 * [Technology](markdown_three.md)
 * [Entertainment](markdown_four.md)
 * [Family](markdown_five.md)
+* [Homepage](README.md)
 
 
 

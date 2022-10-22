@@ -26,5 +26,6 @@ The silver screen also offers a lot of entertainment as well. I might actually l
 * [Colorado Vacation](markdown_two.md)
 * [Technology](markdown_three.md)
 * [Family](markdown_five.md)
+* [Homepage](README.md)
 
 
