@@ -23,6 +23,7 @@ Ever since I was in elementary school playing Wii Sports on the Nintendo Wii I h
 * [Colorado Vacation](markdown_two.md)
 * [Entertainment](markdown_four.md)
 * [Family](markdown_five.md)
+* [Homepage](README.md)
 
 
 
