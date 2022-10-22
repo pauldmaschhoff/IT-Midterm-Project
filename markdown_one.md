@@ -8,7 +8,7 @@ Coming from St. Louis I have always been following our   city's sports teams. I 
  * Kansas City Chiefs (Football).
  * St. Louis Blues (Hockey).
  
-<img src="https://a.espncdn.com/i/teamlogos/mlb/500/stl.png" alt="Cardinals" width="120">
+<img src="https://a.espncdn.com/i/teamlogos/mlb/500/stl.png" alt="Cardinals" width="120"><img src="https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_KC_wbg.png" alt="Chiefs" width="120">
 <img src="https://s.yimg.com/cv/apiv2/default/nfl/20190724/500x500/2019_KC_wbg.png" alt="Chiefs" width="120">
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/St._Louis_Blues_logo.svg/1200px-St._Louis_Blues_logo.svg.png" alt="Blues" width="120">
 
