@@ -2,7 +2,7 @@
 
 ### Sports
 ---
-Coming from St. Louis I have always been following our city's sports teams. I love following different teams and getting invested in the different ups and downs that come in a season. Some of my favorite teams are:
+Coming from St. Louis I have always been following our   city's sports teams. I love following different teams and getting invested in the different ups and downs that come in a season. Some of my favorite teams are:
 
 * St. Louis Cardinals (Baseball).
  * Kansas City Chiefs (Football).
@@ -15,7 +15,7 @@ Coming from St. Louis I have always been following our city's sports teams. I lo
 ### Video Games
 ---
 
-Ever since I was in elementary school playing Wii Sports on the Nintendo Wii I have had a love for video games. As technology has evolved I can now play online with friends with games such as: _Destiny_, _Overwatch_, _Call of Duty_ and many more. [Xbox](https://www.xbox.com/en-US/) has brought many good times to me and my friends and I look forward to the good time to come.
+Ever since I was in elementary school playing Wii Sports on the Nintendo Wii I have had a love for video games. As   technology has evolved I can now play online with friends with games such as: _Destiny_, _Overwatch_, _Call of Duty_ and many more. [Xbox](https://www.xbox.com/en-US/) has brought many good times to me and my friends and I look forward to the good time to come.
 
 
 
